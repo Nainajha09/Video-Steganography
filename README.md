@@ -5,10 +5,13 @@
 📜 Project Overview
 This project implements a high-security video steganography technique by embedding encrypted messages within video frames. It ensures privacy, data integrity, and confidentiality using:
 
-✅ AES (Advanced Encryption Standard) for encrypting messages before embedding
-✅ Dual Diffie-Hellman key exchange for secure key management
-✅ Frame and pixel-based embedding to maintain high visual quality
-✅ Efficient video frame decomposition & reconstruction for seamless data hiding
+  ✅ AES (Advanced Encryption Standard) for encrypting messages before embedding
+  
+  ✅ Dual Diffie-Hellman key exchange for secure key management
+  
+  ✅ Frame and pixel-based embedding to maintain high visual quality
+  
+  ✅ Efficient video frame decomposition & reconstruction for seamless data hiding
 
 By leveraging these techniques, this system achieves secure and undetectable communication through videos.
 
