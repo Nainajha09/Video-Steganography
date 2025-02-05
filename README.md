@@ -20,10 +20,15 @@ By leveraging these techniques, this system achieves secure and undetectable com
 - Diffie-Hellman Algorithm – For key exchange
 
 📌 Features
+
 ✔️ Secure Encryption: Messages are encrypted using AES before embedding
+
 ✔️ Key Management: Dual Diffie-Hellman key exchange ensures secure key distribution
+
 ✔️ Frame-based Hiding: Data is embedded within specific video frames and pixels
+
 ✔️ High Visual Quality: Original video appearance is preserved while ensuring security
+
 ✔️ Message Extraction: Securely extract and decrypt the hidden message from the video
 
 
